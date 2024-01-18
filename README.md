@@ -1,4 +1,4 @@
-# Servirdor de Live Streaming
+# Servidor de Live Streaming
 
 ## Requisitos 
 - Docker 
